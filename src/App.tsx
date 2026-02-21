@@ -237,7 +237,7 @@ export default function App() {
             />
           </div>
           <p className="font-dancing text-xl text-center text-[#8B4567]">
-            [EDIT: Our first memory together]
+           You look like sunshine wrapped in a saree, and I’m the luckiest to see it
           </p>
         </motion.div>
 
@@ -257,7 +257,7 @@ export default function App() {
             />
           </div>
           <p className="font-dancing text-xl text-center text-[#8B4567]">
-            [EDIT: That beautiful sunset]
+           You in that green outfit = me completely in love.
           </p>
         </motion.div>
 
@@ -277,7 +277,7 @@ export default function App() {
             />
           </div>
           <p className="font-dancing text-xl text-center text-[#8B4567]">
-            [EDIT: Always smiling with you]
+           I could look at you forever and still not have enough.
           </p>
         </motion.div>
       </section>
@@ -385,3 +385,4 @@ export default function App() {
     </div>
   );
 }
+
