@@ -257,7 +257,7 @@ export default function App() {
             />
           </div>
           <p className="font-dancing text-xl text-center text-[#8B4567]">
-           You in that green outfit = me completely in love.
+           You in that green outfit = me completely in love❤️❤️.
           </p>
         </motion.div>
 
@@ -385,4 +385,5 @@ export default function App() {
     </div>
   );
 }
+
 
