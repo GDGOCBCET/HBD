@@ -11,7 +11,7 @@ export default function App() {
   const [isMessageOpen, setIsMessageOpen] = useState(false);
 
   // Configuration - EDIT THESE VALUES
-  const recipientName = "Bauniii"; // EDIT: Recipient's Name
+  const recipientName = "Adwiti"; // EDIT: Recipient's Name
   const birthDate = "June 26th"; // EDIT: Birth Date
   const yourName = "Bauna"; // EDIT: Your Name
   const birthdayMessage = "Happy Birthday to the most amazing person in the world! I hope your day is filled with as much joy and love as you bring into my life every single day. You deserve all the happiness in the universe. Let's make this year unforgettable together!"; // EDIT: Your Message
